@@ -1,5 +1,5 @@
 - I’m Emihan from Turkey
-- 🌱 I’m currently working on ecole 42 
+- 🌱 I’m currently working on ecole 42
 - 📫 How to reach me e.ekinci6016@gmail.com 
 
 [![emekinci 42 stats](https://badge42.herokuapp.com/api/stats/emekinci?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
