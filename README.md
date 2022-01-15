@@ -1,5 +1,7 @@
 Hi there 👋, Emirhan EKİNCİ
 
+Software Worker
+
 - I’m Emihan from Turkey
 - 🌱 I’m currently working on ecole 42 
 - 📫 How to reach me e.ekinci6016@gmail.com 
