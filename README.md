@@ -6,9 +6,6 @@ Software Worker
 - 🌱 I’m currently working on ecole 42 
 - 📫 How to reach me e.ekinci6016@gmail.com 
 
-[![emekinci 42 stats](https://bedge42.herokuapp.com/api/stats/emekinci?privacyEmail=true)](https://profile.intra.42.fr/users/emekinci)
-
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VoyvolA&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VoyvolA&theme=tokyonight" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
